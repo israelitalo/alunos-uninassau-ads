@@ -1,0 +1,19 @@
+.base{ 
+    width: 95%; 
+    height: auto;
+    float: left;  
+    box-shadow: 10px 10px 0 #333; 
+    background-color: white; 
+    -webkit-border-radius: 20px 0px 0px 20px;
+    -webkit-box-shadow: -30px 32px 14px rgba(50, 50, 50, 0.77);
+    margin-left: 2%;
+    margin-bottom: 5%;
+}
+
+.rodape{
+    text-align: center; 
+    font-size: 10pt; 
+    width: 100%; 
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
